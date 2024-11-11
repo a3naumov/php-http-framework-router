@@ -1,0 +1,20 @@
+{
+    "name": "a3naumov/php-http-framework-router",
+    "description": "PHP HTTP Framework Router",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Naumov",
+            "email": "naumovartem272@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
